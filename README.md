@@ -1,2 +1,3 @@
 # Scripts
-A library of scripts written years ago or today that I use to help me in my tasks
+
+Currently in the processing of creating sub-folder for particular lanugages and use cases each Script written should be executed within!
